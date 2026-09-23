@@ -39,4 +39,4 @@ Excel (Power Query, PivotTables, formulas), Tableau Public (published dashboard)
 
 ## Live Dashboard
 
-*(add Tableau Public link here once published)*
+[View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/pratyush.singh3294/viz/HRAttritionAnalysis_17901492637640/HRAttritionDashboard)
